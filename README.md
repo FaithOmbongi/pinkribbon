@@ -17,7 +17,7 @@ References:
 - https://twitter.com/materkenya/status/1313728342269534208/photo/1 
 
 -->
-| |Screening Centres|Screening Schedules|
+| |{::nomarkdown}<div style="width:220px">:round_pushpin: Screening Centres</div>{:/}|{::nomarkdown}<div style="width:220px">:calendar: Screening Schedules</div>{:/}|
 | ---| :--- | :--- |
 |1. |Main Hospital A & E|Mon-Fri 7.00 AM-10.00 AM|
 |2.|TRM (Thika Road) Clinic| Tue 8.00 AM-10.30 AM<br>Wed 8.00 AM-10.30 AM|
