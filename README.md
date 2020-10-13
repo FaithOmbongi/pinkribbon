@@ -32,30 +32,23 @@ References:
 </div>
 -->
 + Main Hospital A & E
-    - Mon-Fri 7.00 AM-10.00 AM
-<br>
+  + Mon-Fri 7.00 AM-10.00 AM
 + TRM (Thika Road) Clinic
-    - Tue 8.00 AM-10.30 AM
-    - Wed 8.00 AM-10.30 AM
-<br>
+  + Tue 8.00 AM-10.30 AM
+  + Wed 8.00 AM-10.30 AM
 + Buruburu (Fairlane Centre)
-    - Mon 8.00 AM-1.00 PM
-<br>
+  + Mon 8.00 AM-1.00 PM
 + The Well-Karen Clinic
-    - Mon-Fri 8.00 AM-12 Noon
-<br>
+  + Mon-Fri 8.00 AM-12 Noon
 + Development House (CBD)
-    - Tue 8.00 AM-12 Noon
-<br>
+  + Tue 8.00 AM-12 Noon
 + Thika
-    - Mon-Fri 8.00 AM-10.00 AM
-<br>
+  + Mon-Fri 8.00 AM-10.00 AM
 + Westlands at Kenrail Towers
-    - Mon-Fri 8.00 AM-12 Noon
-<br>
+  + Mon-Fri 8.00 AM-12 Noon
 + Shujaa Mall
-    - Wed 8.00 AM-12 Noon
-    - Thur 8.00 AM-12 Noon
+  + Wed 8.00 AM-12 Noon
+  + Thur 8.00 AM-12 Noon
 
 
 
