@@ -11,7 +11,7 @@ This is an independently curated list of clinics where women can receive FREE sc
 
 <br>
 
-Ladies, we can reduce these statistics when we _know our breasts_ and detect abnormal signs _early_. That said, it is important to note that ***not all abnormal signs point to breast cancer***.
+Ladies, we can reduce these statistics when we _know our breasts_ and detect abnormal signs _early_. That said, it is important to note that ***not all abnormal signs point to breast cancer***. **So, don't panic!**
 
 ---
 
